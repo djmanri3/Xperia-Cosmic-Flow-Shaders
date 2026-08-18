@@ -3,7 +3,7 @@ Shader of popular Sony Xperia with reverse engineering
 
 ## How install
 ### Linux KDE
-Install Shader Wallpaper Complement or compile on this source https://github.com/y4my4my4m/kde-shader-wallpaper and copy files to /home/$USER/.local/share/plasma/wallpapers/online.knowmad.shaderwallpaper/contents/ui/
+Install **Shader Wallpaper Complement** or compile on this source https://github.com/y4my4my4m/kde-shader-wallpaper and copy files to /home/$USER/.local/share/plasma/wallpapers/online.knowmad.shaderwallpaper/contents/ui/
 
 ### Android
 Install this app https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor copy and paste code and touch on three point and touch on **Set ad wallpaper**
@@ -48,6 +48,12 @@ Install https://livelywallpaper.app/
 
 ### Yellow
 <img width="1610" height="767" alt="Xperia Yellow" src="https://github.com/user-attachments/assets/295de81f-5cd8-4a9b-90f7-ea8c6e644315" />
+
+## Acknowledgments
+- Credits to [ndxbxrme](https://www.shadertoy.com/user/ndxbxrme) [Cosmic Flow is based on model https://www.shadertoy.com/view/tlt3Ds ]
+- www.shadertoy.com
+- [y4my4my4m](https://github.com/y4my4my4m) [ Creator of Shader Wallpaper Complement ]
+- [livelywallpaper.app](https://livelywallpaper.app/)
 
 
 
