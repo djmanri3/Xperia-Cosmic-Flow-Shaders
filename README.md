@@ -31,6 +31,9 @@ Install https://livelywallpaper.app/
 <img width="672" height="378" alt="image" src="https://github.com/user-attachments/assets/c1f176cc-f8cf-497e-8b88-44e34404d2da" />
 
 ## Old Cosmic Flow
+### Multicolor
+you already know :)
+
 ### Blue
 <img width="1610" height="767" alt="Xperia Blue" src="https://github.com/user-attachments/assets/2b92702a-a96b-417c-8e07-94a3a600cb5b" />
 
